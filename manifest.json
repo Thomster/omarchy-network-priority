@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "network-priority",
+  "name": "Network Priority",
+  "version": "1.0.0",
+  "author": "Omarchy",
+  "description": "Background service: disables Wi-Fi and GSM automatically whenever a wired Ethernet connection is up. No bar icon.",
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}
