@@ -29,6 +29,10 @@ Pairs well with [omarchy-gsm-status](https://github.com/Thomster/omarchy-gsm-sta
 for a bar icon showing GSM signal/mode and a manual connect/disconnect toggle,
 but neither depends on the other.
 
+## Changelog
+
+Current version: **1.0.1**. See [CHANGELOG.md](CHANGELOG.md).
+
 ## How this came to be
 
 This is a personal customization for my own Omarchy setup, built with the
